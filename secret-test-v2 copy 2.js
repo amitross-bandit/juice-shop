@@ -1,1 +1,0 @@
-const X = "AKIAIOSFODNN7EXAMPLE"
